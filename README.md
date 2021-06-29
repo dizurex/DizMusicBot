@@ -11,7 +11,7 @@
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/Zaute-Km/VCRadioPlayer
+git clone https://github.com/dizurex/DizMusicBot
 cd VCRadioPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
